@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">LiveAttendanceApps</string>
+    <string name="hello_sign_in_yout_account">Hello, Sign In Yout Account</string>
+    <string name="email_atau_nomer_telepon">Email Atau Nomer Telepon</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
 </resources>
