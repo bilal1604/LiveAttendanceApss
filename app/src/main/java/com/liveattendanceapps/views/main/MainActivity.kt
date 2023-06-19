@@ -37,7 +37,9 @@ class MainActivity : AppCompatActivity() {
                     openFragment(ProfileFragment())
                     return@setOnItemSelectedListener true
                 }
+
             }
+            return@setOnItemSelectedListener false
         }
         openFragment()
     }
